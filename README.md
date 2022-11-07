@@ -8,6 +8,8 @@ These are problems from my university's Programming Languages course where we go
 
 ### Haskell
 
+Go [here](https://github.com/mknd7/pl-assignments/tree/main/Haskell/Driver.hs) for driver code (tests)
+
 **Part 1**
 
 - [get last element of list](https://github.com/mknd7/pl-assignments/blob/main/Haskell/Part1/Last.hs)
@@ -20,3 +22,4 @@ These are problems from my university's Programming Languages course where we go
 
 - [find largest unique substring](https://github.com/mknd7/pl-assignments/blob/main/Haskell/Part2/LargestUnique.hs)
 - [merge two sorted lists](https://github.com/mknd7/pl-assignments/blob/main/Haskell/Part2/Merge.hs) (not assigned)
+- [add monadic values of Num type](https://github.com/mknd7/pl-assignments/blob/main/Haskell/Part2/MonadAdd.hs) (not assigned)
