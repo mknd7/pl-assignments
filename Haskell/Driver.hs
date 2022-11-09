@@ -4,6 +4,7 @@ import Last
 import Max
 import Merge
 import MonadAdd
+import MonadFunState
 import Pairs
 import Union
 
@@ -42,3 +43,5 @@ main = do
 
   print (monadAddPlain (Just 2) (Just 3))
   print (monadAddDo (Just 5) (Just 7))
+
+  print ([fun x | x <- [0..10]])

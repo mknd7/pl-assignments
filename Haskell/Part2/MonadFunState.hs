@@ -8,10 +8,6 @@ module MonadFunState
 
 import Control.Monad.State (evalState, get, put)
 
--- To test it out:
--- print ([fun x | x <- [0..10]])
--- > [0,1,2,3,6,11,20,37,68,125,230]
-
 fun :: Int -> Int
 fun n =
   evalState (do
